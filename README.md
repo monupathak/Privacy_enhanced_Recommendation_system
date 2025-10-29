@@ -5,7 +5,7 @@ Project Overview
 This project began as my course project for IE 506: Machine Learning Principles and Techniques at IIT Bombay. Later, I thought — why not improve it and make it open source? That’s how this project evolved.
 
 In this project, I implemented the concepts from the paper [“Applying Differential Privacy to Matrix Factorization”](https://dl.acm.org/doi/pdf/10.1145/2792838.2800173) The paper explores the application of Differential Privacy in Recommendation Systems based on Collaborative Filtering techniques like Matrix Factorization.
-You can watch this video to better understand the concept of matrix factorization[you can watch this video to understannd the concept of matrix factorization](https://www.youtube.com/watch?v=ZspR5PZemcs).
+You can watch this video to better understand the concept of matrix factorization [you can watch this video to understand the concept of matrix factorization](https://www.youtube.com/watch?v=ZspR5PZemcs).
 
 Optimization Approaches in Matrix Factorization
 
