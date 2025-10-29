@@ -1,6 +1,6 @@
 # Privacy_enhanced_Recommendation_system
 This project started as my course project for IE 506 (Machine Learning Principles and Techniques) at IIT Bombay. Then I thought: why not improve it and make it open source? That's how it developed.
-in this project i implemented the [Applying Differential Privacy to Matrix Factorization](https://dl.acm.org/doi/pdf/10.1145/2792838.2800173)
+in this project I implemented the [Applying Differential Privacy to Matrix Factorization](https://dl.acm.org/doi/pdf/10.1145/2792838.2800173)
 This paper discuss the application of Differential Privacy in Reccomendation Systems Based on Collaborative filtering approach like Matrix Factorization [you can watch this video to understannd the concept of matrix factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
 * There are two different optimization approch that can be used in Matrix Factorization :
    * Alternating Least Squared (ALS)
