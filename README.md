@@ -1,4 +1,4 @@
-# Privacy_enhanced_Recommendation_system
+# Privacy Enhanced Recommendation System
 
 Project Overview
 
